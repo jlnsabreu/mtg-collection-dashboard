@@ -8,9 +8,7 @@ Python · Pandas · PostgreSQL · Tableau (in progress)
 
 ## Pipeline
 
-1. `01_cleanup.ipynb` — loads and standardizes ManaBox CSV exports
-2. `scryfall.py` — fetches card data from the Scryfall API by ID
-3. `02_transform.ipynb` — merges, transforms, and loads into PostgreSQL
+![Pipeline](images/pipeline.png)
 
 ## Setup
 
