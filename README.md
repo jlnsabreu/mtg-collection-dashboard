@@ -6,16 +6,16 @@ Analysis of my personal Magic: The Gathering collection using ManaBox export dat
 
 Python · Pandas · PostgreSQL · Tableau (in progress)
 
+## Pipeline
+
+![Pipeline](images/pipeline.png)
+
 ## Dashboard previews
 
 ![ManaCurve](images/tableau_mana-curve.png)
 ![CardColor](images/tableau_cards-color.png)
 ![CardType](images/tableau_cards-type.png)
 ![Top10](images/tableau_top-10.png)
-
-## Pipeline
-
-![Pipeline](images/pipeline.png)
 
 ## Setup
 
